@@ -20,6 +20,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 🛠 Requirements
+
 -Python 3.x
 -TensorFlow 2.x
 -Keras
