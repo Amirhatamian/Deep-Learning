@@ -22,9 +22,13 @@ pip install -r requirements.txt
 🛠 Requirements
 
 -Python 3.x
+
 -TensorFlow 2.x
+
 -Keras
+
 -NumPy, Pandas, Matplotlib
+
 -Jupyter Notebook (recommended for interactive learning)
 
 📢 Contributions & Feedback
